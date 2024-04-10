@@ -35,8 +35,7 @@ flag: debug
 flag: notebook
 
 attribute:
-    disabled: (bool) 是否禁用，默认false
-
+    disabled: (bool) 是否禁用，默认
 <notebook />
 <notebook disabled />
 ```
