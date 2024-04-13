@@ -1,5 +1,5 @@
 # 图片访问
-domain: "https://fkapi.zeabur.app"
+domain: "http://127.0.0.1:8080"
 # goole15
 goole: https://login.1micro.top/v1/login
 # 开启特殊标记增强
@@ -8,4 +8,4 @@ flags: true
 llm:
   baseUrl: "http://127.0.0.1:8080"
   model: "bing"
-  token: "xxx"
+  token: "1yYmPSroqx9Lb7vNuNn3qmp7GxcV0WbCe77tJciamSClprtZbj7d5C7cQCVcxXVz4V8Zjnim1rLX4WEZexM1UX8a9FSzrj-bMBtXjKQcS5c4Z_Jsvu3x99xFmmt-mAsLsM6gVNaR7caRGeOJD51S14WpDVeHxIeb1HBA2aF_x6qdMSIpFO6qRUJnt6Rgjx75bO0OpLj1jiUVNSgz-XosIpg"
